@@ -25,8 +25,8 @@ This project is not affiliated with or endorsed by FIRST.
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ftc-team-lookup.git
-cd ftc-team-lookup
+git clone https://github.com/basilesanast1/ftc-team-lookup-tool.git
+cd ftc-team-lookup-tool
 pip install -r requirements.txt
 ```
 
