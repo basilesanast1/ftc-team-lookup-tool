@@ -63,7 +63,7 @@ Your credentials are stored in `ftc_credentials.json`. The program creates this 
 ## Project structure
 
 ```
-ftc-team-lookup/
+ftc-team-lookup-tool/
 ├── ftc_lookup.py
 ├── ftc_credentials.example.json
 ├── requirements.txt
