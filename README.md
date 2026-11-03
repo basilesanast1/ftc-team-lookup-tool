@@ -53,8 +53,6 @@ On the first run, the program asks for your API username and token and saves the
 
 Your credentials are stored in `ftc_credentials.json`. The program creates this file on first run. On systems that support it, the file is set so only your user account can read it.
 
-The file stores your token in plain text. Don't share it, and don't commit it to version control. The `.gitignore` in this repository already excludes it.
-
 ## Notes
 
 - The API sometimes returns 502, 503, or 504 errors. The tool retries these automatically.
