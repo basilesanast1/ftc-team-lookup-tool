@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python ftc_lookup.py
+python3 ftc_lookup.py
 ```
 
 On the first run, the program asks for your API username and token and saves them to `ftc_credentials.json` in the same folder as the script. You can change them later from the menu.
