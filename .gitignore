@@ -1,0 +1,8 @@
+# Credentials: never commit these
+ftc_credentials.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
